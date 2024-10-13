@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="77a0eb83-6b19-4261-91df-83e3cefc4801" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../dorian-rentmanager/dorian-rentmanager" beforeDir="false" afterPath="$PROJECT_DIR$/../dorian-rentmanager/dorian-rentmanager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-angular" beforeDir="false" afterPath="$PROJECT_DIR$/java-angular" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-angular/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-angular/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-angular/back-skeleton/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/java-angular/back-skeleton/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-angular/back-skeleton/initdb/1_TABLES.sql" beforeDir="false" afterPath="$PROJECT_DIR$/java-angular/back-skeleton/initdb/1_TABLES.sql" afterDir="false" />
@@ -170,7 +172,7 @@
       <workItem from="1728348457451" duration="91000" />
       <workItem from="1728348603131" duration="24084000" />
       <workItem from="1728462321739" duration="4347000" />
-      <workItem from="1728856250555" duration="787000" />
+      <workItem from="1728856250555" duration="1426000" />
     </task>
     <servers />
   </component>
